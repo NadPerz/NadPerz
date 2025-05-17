@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nadija Viyaktha Perera</h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="center">Multimedia Product Developer · Creative Artist · Junior Art Director</h3>
 <p align="center">Blending code, design, and innovation to bring imaginative ideas to life.</p>
 
